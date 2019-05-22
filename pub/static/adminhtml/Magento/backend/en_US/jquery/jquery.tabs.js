@@ -1,0 +1,1 @@
+/var/www/store/lib/web/jquery/jquery.tabs.js

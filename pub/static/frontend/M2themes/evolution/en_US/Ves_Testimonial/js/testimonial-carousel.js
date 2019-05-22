@@ -1,0 +1,1 @@
+/var/www/store/app/code/Ves/Testimonial/view/frontend/web/js/testimonial-carousel.js

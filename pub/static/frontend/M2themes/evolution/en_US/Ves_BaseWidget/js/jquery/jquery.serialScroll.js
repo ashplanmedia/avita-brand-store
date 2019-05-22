@@ -1,0 +1,1 @@
+/var/www/store/app/code/Ves/BaseWidget/view/frontend/web/js/jquery/jquery.serialScroll.js

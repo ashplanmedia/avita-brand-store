@@ -1,0 +1,1 @@
+/var/www/store/lib/web/tiny_mce/themes/advanced/js/source_editor.js
