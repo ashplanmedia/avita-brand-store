@@ -1,0 +1,1 @@
+/var/www/store/lib/web/mage/common.js

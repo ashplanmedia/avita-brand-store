@@ -1,7 +1,7 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1558521959;s:6:"expire";i:1558608359;s:4:"tags";s:49:"6f0_VES_PAGEBUILDER_BLOCK,6f0_BLOCK_HTML,6f0_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1558965648;s:6:"expire";i:1559052048;s:4:"tags";s:49:"6f0_VES_PAGEBUILDER_BLOCK,6f0_BLOCK_HTML,6f0_MAGE";}
 <div class="block vesbuilder-block block-6  footer1">
 		<div class="block-content">
-		<div id="ves-blockbuilder15254303981558521959" class="footer1-content">
+		<div id="ves-blockbuilder1277770171558965648" class="footer1-content">
  				    	    		    	
 	        <div class="ves-container   "   style="padding:30px 0 40px">
 	        		        	
@@ -25,7 +25,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1558521959;s:6:"expire";i:1558608359;s:4:"t
     <div class="block-title ">
                 <strong><span>Sign Up to Newsletter</span></strong>
     </div>
-    <div id="widget-newsletter17751305651558521959" class="widget-inner block-content ">
+    <div id="widget-newsletter2326895271558965648" class="widget-inner block-content ">
         <form class="form subscribe"
             novalidate
             action="http://shop.avita-india.com/newsletter/subscriber/new/"
@@ -64,9 +64,9 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1558521959;s:6:"expire";i:1558608359;s:4:"t
 			                		<div  >
 			                					                    			<div class="widget-html ves-widget block widget-collapse ">
 				<div class="block-title">
-			<span class="opener hidden-lg hidden-md hidden-sm" data-toggle="collapse" data-target="#widget-html3317113851558521959"><i class="fa fa-angle-down"></i></span>			<strong><span>Contact Info</span></strong>
+			<span class="opener hidden-lg hidden-md hidden-sm" data-toggle="collapse" data-target="#widget-html4471411501558965648"><i class="fa fa-angle-down"></i></span>			<strong><span>Contact Info</span></strong>
 		</div>
-				<div id="widget-html3317113851558521959" class="widget-inner block-content  widget-enable-collapse collapse ">
+				<div id="widget-html4471411501558965648" class="widget-inner block-content  widget-enable-collapse collapse ">
 			<div class="pull-left info-left">
 <p>211B - 211C, 2nd Floor, Elegance Tower</p>
 <p><span>Jasola Vihar, New Delhi-110025</span></p>
@@ -114,9 +114,9 @@ require(['jquery'],function($){
 			                		<div  >
 			                					                    			<div class="widget-html ves-widget block widget-collapse ">
 				<div class="block-title">
-			<span class="opener hidden-lg hidden-md hidden-sm" data-toggle="collapse" data-target="#widget-html1586734221558521959"><i class="fa fa-angle-down"></i></span>			<strong><span>Accept Payments</span></strong>
+			<span class="opener hidden-lg hidden-md hidden-sm" data-toggle="collapse" data-target="#widget-html90097511558965648"><i class="fa fa-angle-down"></i></span>			<strong><span>Accept Payments</span></strong>
 		</div>
-				<div id="widget-html1586734221558521959" class="widget-inner block-content  widget-enable-collapse collapse ">
+				<div id="widget-html90097511558965648" class="widget-inner block-content  widget-enable-collapse collapse ">
 			<ul class="logo-pay">
 <li><a href="http://shop.avita-india.com/#/"><img src="http://shop.avita-india.com/pub/media/wysiwyg/m2themes/icon-pay1.png" alt="" /></a></li>
 <li><a href="http://shop.avita-india.com/#/"><img src="http://shop.avita-india.com/pub/media/wysiwyg/m2themes/icon-pay2.png" alt="" /></a></li>
@@ -169,20 +169,20 @@ require(['jquery'],function($){
 			                			                	
 			                					                		
 			                		<div  >
-			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-18128825691558521959">
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-3690864541558965648">
 	<div class="panel panel-default">
         
     	        <div class="panel-heading block-title">
             <strong><span>
-                Account                <a data-toggle="collapse" data-parent="#accordion-links-18128825691558521959" href="#collapseLinks18128825691558521959" class="panel-title hidden-lg hidden-md">
+                Account                <a data-toggle="collapse" data-parent="#accordion-links-3690864541558965648" href="#collapseLinks3690864541558965648" class="panel-title hidden-lg hidden-md">
                     <i class="fa fa-angle-down"></i>
                 </a>
             </span></strong>
         </div>
                 
-        <div id="collapseLinks18128825691558521959" class="block-content panel-collapse collapse in">
+        <div id="collapseLinks3690864541558965648" class="block-content panel-collapse collapse in">
             <div class="panel-body">
-            	<ul class="nav-links " id="myAccordionTab18128825691558521959">
+            	<ul class="nav-links " id="myAccordionTab3690864541558965648">
 									  		<li>
                                                         <a href="http://shop.avita-india.com/customer/account">My Account</a></li>
 				  					  		<li>
@@ -222,20 +222,20 @@ require(['jquery'],function($){
 			                			                	
 			                					                		
 			                		<div  >
-			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-18595725491558521959">
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-13511128571558965648">
 	<div class="panel panel-default">
         
     	        <div class="panel-heading block-title">
             <strong><span>
-                Services                <a data-toggle="collapse" data-parent="#accordion-links-18595725491558521959" href="#collapseLinks18595725491558521959" class="panel-title hidden-lg hidden-md">
+                Services                <a data-toggle="collapse" data-parent="#accordion-links-13511128571558965648" href="#collapseLinks13511128571558965648" class="panel-title hidden-lg hidden-md">
                     <i class="fa fa-angle-down"></i>
                 </a>
             </span></strong>
         </div>
                 
-        <div id="collapseLinks18595725491558521959" class="block-content panel-collapse collapse in">
+        <div id="collapseLinks13511128571558965648" class="block-content panel-collapse collapse in">
             <div class="panel-body">
-            	<ul class="nav-links " id="myAccordionTab18595725491558521959">
+            	<ul class="nav-links " id="myAccordionTab13511128571558965648">
 									  		<li>
                                                         <a href="http://shop.avita-india.com/">Discount</a></li>
 				  					  		<li>
@@ -275,20 +275,20 @@ require(['jquery'],function($){
 			                			                	
 			                					                		
 			                		<div  >
-			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-9809340471558521959">
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-2808927231558965648">
 	<div class="panel panel-default">
         
     	        <div class="panel-heading block-title">
             <strong><span>
-                Infomation                <a data-toggle="collapse" data-parent="#accordion-links-9809340471558521959" href="#collapseLinks9809340471558521959" class="panel-title hidden-lg hidden-md">
+                Infomation                <a data-toggle="collapse" data-parent="#accordion-links-2808927231558965648" href="#collapseLinks2808927231558965648" class="panel-title hidden-lg hidden-md">
                     <i class="fa fa-angle-down"></i>
                 </a>
             </span></strong>
         </div>
                 
-        <div id="collapseLinks9809340471558521959" class="block-content panel-collapse collapse in">
+        <div id="collapseLinks2808927231558965648" class="block-content panel-collapse collapse in">
             <div class="panel-body">
-            	<ul class="nav-links " id="myAccordionTab9809340471558521959">
+            	<ul class="nav-links " id="myAccordionTab2808927231558965648">
 									  		<li>
                                                         <a href="http://shop.avita-india.com/m2themes-about-us">About us</a></li>
 				  					  		<li>
@@ -328,20 +328,20 @@ require(['jquery'],function($){
 			                			                	
 			                					                		
 			                		<div  >
-			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-6218998281558521959">
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-7121482851558965648">
 	<div class="panel panel-default">
         
     	        <div class="panel-heading block-title">
             <strong><span>
-                How to Buy                <a data-toggle="collapse" data-parent="#accordion-links-6218998281558521959" href="#collapseLinks6218998281558521959" class="panel-title hidden-lg hidden-md">
+                How to Buy                <a data-toggle="collapse" data-parent="#accordion-links-7121482851558965648" href="#collapseLinks7121482851558965648" class="panel-title hidden-lg hidden-md">
                     <i class="fa fa-angle-down"></i>
                 </a>
             </span></strong>
         </div>
                 
-        <div id="collapseLinks6218998281558521959" class="block-content panel-collapse collapse in">
+        <div id="collapseLinks7121482851558965648" class="block-content panel-collapse collapse in">
             <div class="panel-body">
-            	<ul class="nav-links " id="myAccordionTab6218998281558521959">
+            	<ul class="nav-links " id="myAccordionTab7121482851558965648">
 									  		<li>
                                                         <a href="http://shop.avita-india.com/customer/account/create">Create an Account</a></li>
 				  					  		<li>
@@ -399,7 +399,7 @@ require(['jquery'],function($){
 			                					                		
 			                		<div  >
 			                					                    			<div class="widget-html ves-widget block  ">
-				<div id="widget-html9204256091558521959" class="widget-inner block-content ">
+				<div id="widget-html18723090591558965648" class="widget-inner block-content ">
 			<p>Copyright 2019 <span>AVITA Brand Store</span>. All rights reserved</p>
 <p>AVITA INDIA</p>		</div>
 	</div>
