@@ -1,0 +1,80 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1559015343;s:6:"expire";i:1559101743;s:4:"tags";s:49:"6f0_VES_PAGEBUILDER_BLOCK,6f0_BLOCK_HTML,6f0_MAGE";}
+<div class="block vesbuilder-block block-52  ">
+		<div class="block-content">
+		<div id="ves-blockbuilder20773008771559015343" class="">
+ 				    	    		    	
+	        <div class="ves-container   "  >
+	        		        	
+	        	<div>
+	        	
+	        	<div class="ves-inner   " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="block blog-posts ves-widget title-center">
+		<div class="block-title">
+		<strong>From Our Blog</strong>
+	</div>
+			<div class="block-content">
+		
+
+				<script>
+			require(['jquery'],function($){
+                $(document).ready(function(){
+				require([
+					'jquery',
+										"Ves_All/lib/owl.carousel/owl.carousel.min",
+										], function(){
+						jQuery(document).ready(function() {
+							var owl = jQuery('#block15590153431980744119');
+							owl.owlCarousel({
+								rtl: false,
+								loop:false,
+								lazyLoad:true,
+								nav:false,
+								dots:false,
+								navText: [ "", "" ],
+																	responsive:{
+										0 : { items: 1},
+										480 : {items: 2},
+										640 : {items: 2},
+										768 : {items: 3},
+										980 : {items: 3},
+										1200 : {items: 3},
+									},
+									onInitialized: function(){
+																				}
+									});
+
+						});
+					});
+				});
+				});
+			</script>
+			
+					</div>
+	</div>			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        </div>
+		    </div>
+		    </div>
+	    
+	 	  	</div>
+	</div>
+</div>

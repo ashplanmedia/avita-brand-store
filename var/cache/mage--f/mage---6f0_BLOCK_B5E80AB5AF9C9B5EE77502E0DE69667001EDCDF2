@@ -1,0 +1,132 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1559015343;s:6:"expire";i:1559101743;s:4:"tags";s:49:"6f0_VES_PAGEBUILDER_BLOCK,6f0_BLOCK_HTML,6f0_MAGE";}
+<div class="block vesbuilder-block block-44  ">
+		<div class="block-content">
+		<div id="ves-blockbuilder13754011121559015343" class="">
+ 				    	    		    	
+	        <div class="ves-container   "  >
+	        		        	
+	        	<div>
+	        	
+	        	<div class="ves-inner   " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget widget-carousel owlcarousel block  ">
+            <div id="widget-carousel5568283211559015343" class="widget-inner block-content ">
+            <div id="owlwidgetcarousel19083846581559015343" class="owl-carousel">
+                                    <div class="item first">
+                              <h4 class="item-title">Header 1 </h4>                              <div class="item-content">
+                                    <p><a href="http://shop.avita-india.com/ariel-roll-sleeve-sweatshirt-xs-red.html/"><img src="http://shop.avita-india.com/pub/media/wysiwyg/m2themes_coolstuff/slider1.jpg" alt="" /></a></p>
+<div class="slider-content a-left" style="left: 20%; top: 25%;">
+<p class="p-caption">DECORATION</p>
+<h3>Mirror Wise Men</h3>
+<div class="hidden-xs" style="line-height: 24px;">
+<p>Now an icon of modern design, the mirror has been produced</p>
+<p>continuously for over 50 years by the original manufacturer.</p>
+<p style="font-size: 24px; margin-top: 14px;"><strong>$275</strong></p>
+</div>
+</div>                              </div>
+                        </div>
+                                    <div class="item ">
+                              <h4 class="item-title">Header 2 </h4>                              <div class="item-content">
+                                    <p><a href="http://shop.avita-india.com/ariel-roll-sleeve-sweatshirt-xs-red.html/"><img src="http://shop.avita-india.com/pub/media/wysiwyg/m2themes_coolstuff/slider2.jpg" alt="" /></a></p>
+<div class="slider-content a-left" style="left: 20%; top: 30%;">
+<p class="p-caption">ACCESSORIES</p>
+<h3>Camera Cooler Bag</h3>
+<div class="hidden-xs" style="line-height: 24px;">
+<p>Your traveling troupe will sing your praises amidst their sips.</p>
+<p style="font-size: 24px; margin-top: 14px;"><strong>$242</strong></p>
+</div>
+</div>                              </div>
+                        </div>
+                                    <div class="item last">
+                              <h4 class="item-title">Header 3 </h4>                              <div class="item-content">
+                                    <p><a href="http://shop.avita-india.com/ariel-roll-sleeve-sweatshirt-xs-red.html/"><img src="http://shop.avita-india.com/pub/media/wysiwyg/m2themes_coolstuff/slider3.jpg" alt="" /></a></p>
+<div class="slider-content a-left" style="left: 20%; top: 25%;">
+<p class="p-caption">WORKSPACE</p>
+<h3>Mordern Lounge Chair</h3>
+<div class="hidden-xs" style="line-height: 24px;">
+<p>Now an icon of modern design, the mirror has been produced</p>
+<p>continuously for over 50 years by the original manufacturer.</p>
+<p style="font-size: 24px; margin-top: 14px;"><strong>$180</strong></p>
+</div>
+</div>                              </div>
+                        </div>
+                        </div>
+                  </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+            $(document).ready(function(){
+                  require([
+                  'jquery'
+                                     ,"Ves_All/lib/owl.carousel/owl.carousel.min"
+                                    ],function($){
+                      var widgetowlcarousel = jQuery('#owlwidgetcarousel19083846581559015343');
+                          widgetowlcarousel.owlCarousel({
+                              autoplay: true,
+                                                            autoplaySpeed: 1000,
+                                                            autoplayTimeout: 5000,
+                                                            animateIn: "fadeIn",
+                                                                                          animateOut: "fadeOut",
+                                                            autoplayHoverPause: true,
+                              nav: true,
+                                                            navText: ["<span class='fa fa-angle-left'>Pre</span>","<span class='fa fa-angle-right'>Next</span>"],
+                                                            autoWidth: false,
+                              autoHeight: false,
+                              slideBy: 1,
+                              loop: true,
+                              margin: 0,
+                              navSpeed:  false,
+                              dots: true,
+                              dotsSpeed: 800,
+                              mouseDrag: true,
+                              touchDrag: true,
+                              pullDrag: false,
+                              lazyLoad: false,
+                                                            items: 1,
+                              responsive: {
+                                    0:{
+                                          items:1
+                                    },
+                                    600:{
+                                          items:1
+                                    },
+                                    1000:{
+                                          items:1
+                                    }
+                              },
+                                                            singleItem: true                          });
+
+                            
+                  });
+            })
+      });
+</script>
+
+
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        </div>
+		    </div>
+		    </div>
+	    
+	 	  	</div>
+	</div>
+</div>
