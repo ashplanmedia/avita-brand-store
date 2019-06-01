@@ -20,8 +20,8 @@ return array (
       'default' => 
       array (
         'host' => 'localhost',
-        'dbname' => 'shop',
-        'username' => 'root',
+        'dbname' => 'store',
+        'username' => 'avita',
         'password' => 'AvitaStore@123',
         'active' => '1',
       ),
