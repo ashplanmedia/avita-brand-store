@@ -1,1 +1,0 @@
-/var/www/store/lib/web/tiny_mce/plugins/advimage/editor_plugin_src.js

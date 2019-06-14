@@ -1,1 +1,0 @@
-/var/www/store/app/code/Ves/Themesettings/view/frontend/web/js/catalog-add-to-cart.js

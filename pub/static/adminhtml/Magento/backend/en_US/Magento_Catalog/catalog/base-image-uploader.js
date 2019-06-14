@@ -1,1 +1,0 @@
-/var/www/store/vendor/magento/module-catalog/view/adminhtml/web/catalog/base-image-uploader.js

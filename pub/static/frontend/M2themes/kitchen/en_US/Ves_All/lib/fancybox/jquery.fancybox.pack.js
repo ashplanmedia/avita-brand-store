@@ -1,1 +1,0 @@
-/var/www/store/app/code/Ves/All/view/frontend/web/lib/fancybox/jquery.fancybox.pack.js

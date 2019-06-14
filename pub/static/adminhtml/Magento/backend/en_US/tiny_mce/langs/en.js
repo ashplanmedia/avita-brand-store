@@ -1,1 +1,0 @@
-/var/www/store/lib/web/tiny_mce/langs/en.js

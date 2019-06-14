@@ -1,1 +1,0 @@
-/var/www/store/lib/web/mage/backend/floating-header.js

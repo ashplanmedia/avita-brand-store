@@ -1,1 +1,0 @@
-/var/www/store/app/code/Ves/BaseWidget/view/adminhtml/web/js/jquery/jquery.ajax.localstorage.cache.js

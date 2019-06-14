@@ -1,1 +1,0 @@
-/var/www/store/lib/web/tiny_mce/utils/editable_selects.js

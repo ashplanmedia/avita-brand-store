@@ -1,1 +1,0 @@
-/var/www/store/lib/web/mage/ie-class-fixer.js
