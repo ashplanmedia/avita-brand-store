@@ -1,0 +1,1 @@
+/var/www/store/app/code/Ves/Productlist/view/adminhtml/web/js/wysiwyg/tiny_mce/setup.js

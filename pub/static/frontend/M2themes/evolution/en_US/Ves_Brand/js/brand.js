@@ -1,0 +1,1 @@
+/var/www/store/app/code/Ves/Brand/view/frontend/web/js/brand.js

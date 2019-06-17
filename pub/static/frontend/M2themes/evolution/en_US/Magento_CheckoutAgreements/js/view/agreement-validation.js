@@ -1,0 +1,1 @@
+/var/www/store/vendor/magento/module-checkout-agreements/view/frontend/web/js/view/agreement-validation.js

@@ -1,0 +1,1 @@
+/var/www/store/app/code/Ves/BaseWidget/view/adminhtml/web/js/bootstrap336/bootstrap.js
