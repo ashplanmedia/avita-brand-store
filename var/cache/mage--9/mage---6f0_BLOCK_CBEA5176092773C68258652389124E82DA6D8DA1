@@ -1,0 +1,417 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1560906674;s:6:"expire";i:1560993074;s:4:"tags";s:49:"6f0_VES_PAGEBUILDER_BLOCK,6f0_BLOCK_HTML,6f0_MAGE";}
+<div class="block vesbuilder-block block-6  footer1">
+		<div class="block-content">
+		<div id="ves-blockbuilder3007718921560906674" class="footer1-content">
+ 				    	    		    	
+	        <div class="ves-container   "   style="padding:30px 0 40px">
+	        		        	
+	        	<div class="container">
+	        	
+	        	<div class="ves-inner   " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix footer-block" >
+			        			        	 										        
+			            <div  class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget widget-newsletter newsletter block custom-subscribe ">
+    <div class="block-title ">
+                <strong><span>Sign Up to Newsletter</span></strong>
+    </div>
+    <div id="widget-newsletter12223479131560906674" class="widget-inner block-content ">
+        <form class="form subscribe"
+            novalidate
+            action="https://store.avita-india.com/newsletter/subscriber/new/"
+            method="post"
+            data-mage-init='{"validation": {"errorClass": "mage-error"}}'
+            id="newsletter-validate-detail">
+            <div class="field newsletter">
+                <label class="label" for="newsletter"><span>Be the first to learn about promotions special events, new arrivals and more</span></label>
+                <div class="control">
+                    <input name="email" type="email" id="newsletter"
+                                placeholder="Enter your email..."
+                                data-validate="{required:true, 'validate-email':true}" class=""/>
+                    <div class="actions">
+                        <button class="action subscribe " title="Subscribe" type="submit">
+                            <span>Sign up now !</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner infom" >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    			<div class="widget-html ves-widget block widget-collapse ">
+				<div class="block-title">
+			<span class="opener hidden-lg hidden-md hidden-sm" data-toggle="collapse" data-target="#widget-html2415112861560906674"><i class="fa fa-angle-down"></i></span>			<strong><span>Contact Info</span></strong>
+		</div>
+				<div id="widget-html2415112861560906674" class="widget-inner block-content  widget-enable-collapse collapse ">
+			<div class="pull-left info-left">
+<p>211B - 211C, 2nd Floor, Elegance Tower</p>
+<p><span>Jasola Vihar, New Delhi-110025</span></p>
+<p><span class="email">insales@nexstgo.com</span></p>
+</div>
+<div class="pull-left">
+<p>Hotline</p>
+<p><span>1800-22-3902</span></p>
+</div>
+<div class="social">
+<ul class="list-social">
+<li class="icon-social"><a class="facebook" href="https://www.facebook.com/AvitaIndia/"> <em class="fa fa-facebook"><span class="hidden">Facebook</span></em></a></li>
+<li class="icon-social"><a class="twitter" href="https://twitter.com/avitaindia"> <em class="fa fa-twitter"> <span class="hidden">Twitter</span></em></a></li>
+<li class="icon-social"><a class="youtube" href="https://www.youtube.com/channel/UC57qf-v-MTtvJMVjejm-Khg"> <em class="fa fa-youtube-play"><span class="hidden">Youtube</span></em></a></li>
+<li class="icon-social"><a class="instagram" href="https://www.instagram.com/avitaind/"> <em class="fa fa-instagram"><span class="hidden">Instagram</span></em></a></li>
+</ul>
+</div>		</div>
+	</div>
+
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+	require([
+		'jquery'
+				,"Ves_All/lib/bootstrap/js/bootstrap.min"
+				],function($){
+			
+		});
+	});
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    			<div class="widget-html ves-widget block widget-collapse ">
+				<div class="block-title">
+			<span class="opener hidden-lg hidden-md hidden-sm" data-toggle="collapse" data-target="#widget-html10410017261560906674"><i class="fa fa-angle-down"></i></span>			<strong><span>Accept Payments</span></strong>
+		</div>
+				<div id="widget-html10410017261560906674" class="widget-inner block-content  widget-enable-collapse collapse ">
+			<ul class="logo-pay">
+<li><a href="https://store.avita-india.com/#/"><img src="https://store.avita-india.com/pub/media/wysiwyg/m2themes/icon-pay1.png" alt="" /></a></li>
+<li><a href="https://store.avita-india.com/#/"><img src="https://store.avita-india.com/pub/media/wysiwyg/m2themes/icon-pay2.png" alt="" /></a></li>
+<li><a href="https://store.avita-india.com/#/"><img src="https://store.avita-india.com/pub/media/wysiwyg/m2themes/icon-pay3.png" alt="" /></a></li>
+<li><a href="https://store.avita-india.com/#/"><img src="https://store.avita-india.com/pub/media/wysiwyg/m2themes/icon-pay4.png" alt="" /></a></li>
+<li><a href="https://store.avita-india.com/#/"><img src="https://store.avita-india.com/pub/media/wysiwyg/m2themes/icon-pay7.png" alt="" /></a></li>
+</ul>		</div>
+	</div>
+
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+	require([
+		'jquery'
+				,"Ves_All/lib/bootstrap/js/bootstrap.min"
+				],function($){
+			
+		});
+	});
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        </div>
+		    </div>
+		    </div>
+	    
+		    	    		    	
+	        <div class="ves-container   "  >
+	        		        	
+	        	<div class="container">
+	        	
+	        	<div class="ves-inner   footer-links" >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-3 col-md-3 col-sm-3 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-18914804011560906674">
+	<div class="panel panel-default">
+        
+    	        <div class="panel-heading block-title">
+            <strong><span>
+                Account                <a data-toggle="collapse" data-parent="#accordion-links-18914804011560906674" href="#collapseLinks18914804011560906674" class="panel-title hidden-lg hidden-md">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </span></strong>
+        </div>
+                
+        <div id="collapseLinks18914804011560906674" class="block-content panel-collapse collapse in">
+            <div class="panel-body">
+            	<ul class="nav-links " id="myAccordionTab18914804011560906674">
+									  		<li>
+                                                        <a href="https://store.avita-india.com/customer/account">My Account</a></li>
+				  					  		<li>
+                                                        <a href="https://store.avita-india.com/checkout/cart/">Order History</a></li>
+				  					  		<li>
+                                                        <a href="https://store.avita-india.com/wishlist">Wishlist</a></li>
+				  					</ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+    require([
+        'jquery'
+                ,"Ves_All/lib/bootstrap/js/bootstrap.min"
+                ],function($){
+            
+        });
+    });
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-3 col-md-3 col-sm-3 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-18641466521560906674">
+	<div class="panel panel-default">
+        
+    	        <div class="panel-heading block-title">
+            <strong><span>
+                Support                <a data-toggle="collapse" data-parent="#accordion-links-18641466521560906674" href="#collapseLinks18641466521560906674" class="panel-title hidden-lg hidden-md">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </span></strong>
+        </div>
+                
+        <div id="collapseLinks18641466521560906674" class="block-content panel-collapse collapse in">
+            <div class="panel-body">
+            	<ul class="nav-links " id="myAccordionTab18641466521560906674">
+									  		<li>
+                                                        <a href="https://store.avita-india.com/faq">FAQ's</a></li>
+				  					  		<li>
+                                                        <a href="https://store.avita-india.com/service-centers-list">Service Center List</a></li>
+				  					  		<li>
+                                                        <a href="https://store.avita-india.com/warranty-repairs">Warranty & Repairs</a></li>
+				  					  		<li>
+                                                        <a href="https://store.avita-india.com/return-policy">Return Policy</a></li>
+				  					</ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+    require([
+        'jquery'
+                ,"Ves_All/lib/bootstrap/js/bootstrap.min"
+                ],function($){
+            
+        });
+    });
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-3 col-md-3 col-sm-3 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-17376698151560906674">
+	<div class="panel panel-default">
+        
+    	        <div class="panel-heading block-title">
+            <strong><span>
+                About Us                <a data-toggle="collapse" data-parent="#accordion-links-17376698151560906674" href="#collapseLinks17376698151560906674" class="panel-title hidden-lg hidden-md">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </span></strong>
+        </div>
+                
+        <div id="collapseLinks17376698151560906674" class="block-content panel-collapse collapse in">
+            <div class="panel-body">
+            	<ul class="nav-links " id="myAccordionTab17376698151560906674">
+									  		<li>
+                                                        <a href="https://store.avita-india.com/privacy-policy">Privacy Policy</a></li>
+				  					  		<li>
+                                                        <a href="https://store.avita-india.com/user-agrement">User Agreement</a></li>
+				  					  		<li>
+                                                        <a href="https://store.avita-india.com/contact-details">Contact Details</a></li>
+				  					</ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+    require([
+        'jquery'
+                ,"Ves_All/lib/bootstrap/js/bootstrap.min"
+                ],function($){
+            
+        });
+    });
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-3 col-md-3 col-sm-3 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-4788746781560906674">
+	<div class="panel panel-default">
+        
+    	        <div class="panel-heading block-title">
+            <strong><span>
+                How to Buy                <a data-toggle="collapse" data-parent="#accordion-links-4788746781560906674" href="#collapseLinks4788746781560906674" class="panel-title hidden-lg hidden-md">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </span></strong>
+        </div>
+                
+        <div id="collapseLinks4788746781560906674" class="block-content panel-collapse collapse in">
+            <div class="panel-body">
+            	<ul class="nav-links " id="myAccordionTab4788746781560906674">
+									  		<li>
+                                                        <a href="https://store.avita-india.com/customer/account/create">Create an Account</a></li>
+				  					  		<li>
+                                                        <a href="https://store.avita-india.com/m2themes-delivery-and-payment">Making Payments</a></li>
+				  					  		<li>
+                                                        <a href="https://store.avita-india.com/">Buyer Protection</a></li>
+				  					  		<li>
+                                                        <a href="https://store.avita-india.com/">New User Guide</a></li>
+				  					</ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+    require([
+        'jquery'
+                ,"Ves_All/lib/bootstrap/js/bootstrap.min"
+                ],function($){
+            
+        });
+    });
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        </div>
+		    </div>
+		    </div>
+	    
+		    	    		    	
+	        <div class="ves-container   "   style="background-color:#262626;padding:36px 0 45px">
+	        		        	
+	        	<div class="container">
+	        	
+	        	<div class="ves-inner   copyright a-center" >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    			<div class="widget-html ves-widget block  ">
+				<div id="widget-html15209027961560906674" class="widget-inner block-content ">
+			<p>Copyright 2019 <span>AVITA Brand Store</span>. All rights reserved</p>
+<p>AVITA INDIA</p>		</div>
+	</div>
+
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        </div>
+		    </div>
+		    </div>
+	    
+	 	  	</div>
+	</div>
+</div>

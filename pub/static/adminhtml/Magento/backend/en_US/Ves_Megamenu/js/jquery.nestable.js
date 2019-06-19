@@ -1,1 +1,0 @@
-/var/www/store/app/code/Ves/Megamenu/view/adminhtml/web/js/jquery.nestable.js

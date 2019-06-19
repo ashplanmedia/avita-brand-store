@@ -1,1 +1,0 @@
-/var/www/store/lib/web/jquery/fileUploader/canvas-to-blob.js

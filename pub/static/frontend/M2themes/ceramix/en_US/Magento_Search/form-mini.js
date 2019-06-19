@@ -1,1 +1,0 @@
-/var/www/store/app/design/frontend/M2themes/ceramix/Magento_Search/web/form-mini.js

@@ -21,7 +21,7 @@ return array (
       array (
         'host' => 'localhost',
         'dbname' => 'store',
-        'username' => 'avita',
+        'username' => 'store',
         'password' => 'AvitaStore@123',
         'active' => '1',
       ),
